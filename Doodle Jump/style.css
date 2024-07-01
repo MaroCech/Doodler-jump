@@ -1,0 +1,52 @@
+.grid {
+    height: 600px;
+    width: 400px;
+    background:url(https://cdn.pixabay.com/photo/2024/05/15/16/15/sky-8763986_1280.jpg);
+    position: relative;
+    font-size: 100px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.doodler {
+    width: 60px;
+    height: 60px;
+    background: url(https://cdn0.iconfinder.com/data/icons/sports-59/512/Basketball-256.png);
+    background-size: cover;
+    position: absolute;
+    border-radius: 20px;
+}
+
+.platform {
+    width: 85px;
+    height: 40px;
+    background: url(https://cdn1.iconfinder.com/data/icons/adventure-outline-1/64/Adventure-Line-04-256.png);
+    background-size: cover;
+    position: absolute;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
